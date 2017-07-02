@@ -1,0 +1,17 @@
+frmSTART = 44, 58, 761, 683, C, 22, 29, 739, 654, C
+modDataFunctions = 154, 203, 871, 828, C
+frmNEW = 110, 145, 827, 770, C, 220, 290, 937, 915, C
+modVariables = 154, 203, 871, 828, C
+frmGAME = 22, 29, 828, 596, C, 0, 0, 717, 625, C
+modGAMEDATA = 22, 29, 739, 654, C
+frmLoad = 88, 116, 805, 741, C, 22, 29, 739, 654, C
+modTextInputHandle = 132, 174, 849, 799, C
+frmdebug = 66, 87, 783, 712, C, 44, 58, 761, 683, C
+modNavigation = 110, 145, 827, 770, C
+modBattle = 44, 58, 761, 683, Z
+modCreatureDatabase = 44, 58, 761, 683, 
+modSound = 88, 116, 805, 741, C
+modExperienceHandle = 44, 58, 761, 683, C
+modRegisterDLL = 176, 232, 893, 857, C
+frmWorldMap = 0, 0, 0, 0, C, 66, 87, 783, 712, C
+modItemHandle = 66, 87, 783, 712, 
