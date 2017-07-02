@@ -1,0 +1,19 @@
+[Character]
+Name=yby
+Level=2
+Experience=33
+MaxHealth=169
+Health=159
+MaxMana=20
+Mana=20
+Strength=15
+Defence=18
+Intelligence=0
+Speed=0
+Location=Port Alura
+Compass=True
+Gold=42
+ReviveLocation=Balso Throne Room
+StatPoints=0
+InventoryItem1=Potion
+InventoryItem1Amount=1

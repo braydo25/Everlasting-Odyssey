@@ -1,0 +1,3 @@
+Do Not Delete This Folder, You Will Get A Large Amount Of Errors And Will Not Be Able To Play Or Create Characters If It Is Missing!
+
+-A Directory Checker Is Currently Being Worked On And Will Be Implemented Into The Next Version To Automatically Create This Folder When Missing.

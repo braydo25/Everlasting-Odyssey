@@ -1,0 +1,17 @@
+[Character]
+Name=matt
+Level=2
+Experience=44
+MaxHealth=160
+Health=4
+MaxMana=
+Mana=20
+Strength=10
+Defence=15
+Intelligence=0
+Speed=5
+Location=Balso Throne Room
+Compass=True
+Gold=49
+ReviveLocation=Balso Throne Room
+StatPoints=3
